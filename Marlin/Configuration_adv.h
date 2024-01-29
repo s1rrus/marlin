@@ -2858,7 +2858,7 @@
   #endif
 
   #if AXIS_IS_TMC_CONFIG(E0)
-    #define E0_CURRENT       800
+    #define E0_CURRENT       1000
     #define E0_MICROSTEPS    16
     #define E0_RSENSE        0.075
     #define E0_CHAIN_POS     -1
